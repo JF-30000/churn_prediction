@@ -1,0 +1,10 @@
+studio_id,studio_name,address,city,state,zip,class_capacity
+STUDIO_001,Broomfield,1285 E 1ST AVENUE,Broomfield,CO,80020,33
+STUDIO_004,Uptown Denver,450 E. 17TH AVE,Denver,CO,80203,39
+STUDIO_005,Denver Highlands,3300 W 32ND AVENUE,Denver,CO,80211,39
+STUDIO_006,Hilltop Village,4243 E 136TH AVE,Thornton,CO,80602,33
+STUDIO_008,Applewood Village,3244 YOUNGFIELD ST,Wheat Ridge,CO,80033,39
+STUDIO_009,Lowry,200 QUEBEC ST,Denver,CO,80230,39
+STUDIO_012,Cherry Knolls,6860 S University Blvd,Littleton,CO,80122,39
+STUDIO_014,Highlands Ranch,1493 PARK CENTRAL DR,Highlands Ranch,CO,80129,39
+STUDIO_015,Castle Rock,3990 LIMELIGHT AVE,Castle Rock,CO,80109,33
